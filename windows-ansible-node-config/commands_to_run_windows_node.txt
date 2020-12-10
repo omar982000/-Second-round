@@ -1,0 +1,16 @@
+
+step1:
+create user - ansible
+password to user - Root1234
+
+step2:
+
+
+open google search
+
+search for ConfigureRemotingForAnsible.ps1
+
+copy the file into windows node with ps (powershell) extension.
+
+run as administrator on windows machine.
+

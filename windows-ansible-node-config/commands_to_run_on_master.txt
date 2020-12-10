@@ -1,0 +1,11 @@
+sudo add-apt-repository universe
+sudo apt install python3-pip
+
+
+sudo apt install python3-pip
+
+pip3 --version
+
+sudo pip3 install python_package_name
+
+pip3 search search_string
